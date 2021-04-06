@@ -37,3 +37,8 @@ Une fois lancer vous pouvez deroller la fleche a votre gauche afin de voir tous 
 Si vous avez deja les parametres dans un fichier csv vous pouvez l'uploader directement
 _**Attention!!!**_: votre fichier csv doit respecter la structure defini dans le fichier `penguins_example_test.csv`
 
+<br>
+
+Source
+***
+Ce travail a vu le cour grace a cette [video](https://www.youtube.com/watch?v=Eai1jaZrRDs&t=103s&ab_channel=DataProfessor) 
