@@ -1,6 +1,9 @@
 # Penguin-Classification-webApp-Streamlit
 
-![penguins image](image/image.jpeg?raw=True "Penguins image")
+<!-- ![penguins image](image/image.jpeg?raw=True "Penguins image") -->
+<p align=center> 
+  <img src="penguins.gif"/>
+ </p>
 <br>
 Cette application prédit les espèces de ***manchots palmer!***
 Grace a differents criteres il permet de determiner le type de pengouin(manchot) parmi 3 especes a savoir:
