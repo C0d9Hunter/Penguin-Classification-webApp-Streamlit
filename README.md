@@ -44,4 +44,4 @@ _**Attention!!!**_: votre fichier csv doit respecter la structure defini dans le
 
 Source
 ***
-Ce travail a vu le cour grace a cette [video](https://www.youtube.com/watch?v=Eai1jaZrRDs&t=103s&ab_channel=DataProfessor) 
+Ce travail a vu le jour grace a cette [video](https://www.youtube.com/watch?v=Eai1jaZrRDs&t=103s&ab_channel=DataProfessor) 
